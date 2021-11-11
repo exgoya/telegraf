@@ -333,6 +333,7 @@ require (
 )
 
 require (
+	github.com/alexbrainman/odbc v0.0.0-20210605012845-39f8520b0d5f // indirect
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.2.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/dynamodbstreams v1.4.0 // indirect
 	github.com/awslabs/kinesis-aggregation/go v0.0.0-20210630091500-54e17340d32f // indirect
